@@ -93,9 +93,7 @@ a {
   font-size: 13px;
 }
 
-.rightcontent {
-  overflow: auto;
-  padding: 120px;
+.rightcontent { 
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -154,7 +152,7 @@ a {
   top: 0px;
   display: block;
   min-height: 100vh;
-  min-width: 100%;
+  min-width: 80%;
   -webkit-align-self: flex-start;
   -ms-flex-item-align: start;
   align-self: flex-start;
