@@ -59,8 +59,9 @@ a {
   margin-bottom: 40px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: #848d96;
-  font-size: 31px;
+  font-size: 27px;
   line-height: 140%;
+  padding-right: 40px;
 }
 
 .text-block-2 {
