@@ -38,7 +38,7 @@ a {
 .name {
   margin-bottom: 40px;
   color: #47bec7;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 100%;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -51,7 +51,7 @@ a {
 .tagline {
   margin-bottom: 40px;
   color: #ddd;
-  font-size: 58px;
+  font-size: 64px;
   line-height: 100%;
 }
 
@@ -59,7 +59,7 @@ a {
   margin-bottom: 40px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: #848d96;
-  font-size: 27px;
+  font-size: 24px;
   line-height: 140%;
   padding-right: 40px;
 }
@@ -126,6 +126,7 @@ a {
 }
 
 .links {
+  font-size: 27px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -136,6 +137,7 @@ a {
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
+  
 }
 
 .bio-links {
